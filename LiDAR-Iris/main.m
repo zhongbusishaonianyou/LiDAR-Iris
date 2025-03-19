@@ -10,7 +10,7 @@ global data_path;
 %% data path setting
 data_path = '../00/'; 
 GTposes_file='00.csv';
-%% loading ground-truth poses and creating structural feature matrix SFM
+%% loading ground-truth poses and creating Iris
 resolution = [80,360];Range=80; 
 [des_iris, GT_poses] = Load_Data(resolution,GTposes_file,Range);
 
