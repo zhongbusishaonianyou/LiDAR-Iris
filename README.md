@@ -1,6 +1,6 @@
 # LiDAR Iris for Loop-Closure Detection
 # matlab_version
-- We replicated this method in MATLAB.This method has poor real-time performance and is rather time-consuming during both testing and operation.
+- We replicated this method in MATLAB.Since the IRIS descriptor has a higher dimension and there is no efficient loop closure frame matching method,this method has poor real-time performance and is rather time-consuming during both testing and operation.
 
 # cite
 ```
