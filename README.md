@@ -5,7 +5,7 @@
 # Usage
 - change file path
 - run main.m
-- run prcurve_drawer.m to draw pr curce
+- run prcurve_drawer.m to draw pr curve
 # cite
 ```
 @INPROCEEDINGS{9341010,
